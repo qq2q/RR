@@ -1,4 +1,4 @@
-#Open source uploaded by WaheebxMalik
+#Open source uploaded by XF
 
 W = '\033[97;1m'
 R = '\033[91;1m'
@@ -393,7 +393,7 @@ logo = ("""\033[1;32m
        
 ___________________________________________________________
           
-           The Unbeatable Larka'w ft W I N G
+           The Unbeatable W I N G ft. Waheeb
 ___________________________________________________________       
 #     #    ###    #     #     #####  
 #  #  #     #     ##    #    #     # 
